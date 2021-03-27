@@ -1,1 +1,1 @@
-# ufc-prediction
+# UFC Prediction
